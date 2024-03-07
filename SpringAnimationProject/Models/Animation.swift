@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Animation {
+    let presets: [String]
+    let curves: [String]
+}
